@@ -1,7 +1,7 @@
 # Starter Web Project
 
-
-This is a simple project for showing Git workflow. Adding a line for example
+This is a simple project for showing Git workflow. Adding a line for example, more changes 
+from myfeature branch also.
 
 ## Introduction
 This is an example to show different parts of the Git repo and commands
